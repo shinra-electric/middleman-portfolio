@@ -1,34 +1,31 @@
-- name: Longest Word Game
-  description: Decent description of the app
+- name: Market Sensei
+  description: DeFi trading platform featuring digital wallet integration and an AI learning tool
+  image: projects/placeholder.png
+  url: https://www.marketsensei.app
+  github: https://www.github.com
+  online: true
+  opensource: false
+
+- name: Dokodemo Fit
+  description: AI tool that creates workout routines and meal plans depending on goals and equipment available
   image: projects/placeholder.png
   url: https://www.google.com
   github: https://www.github.com
   online: true
+  opensource: true
 
-- name: Movie Watchlist
-  description: Decent description of the app
+- name: Seven Seas
+  description: Private social network app specifically for students of the Apple Developer Academy in Napoli
   image: projects/placeholder.png
   url: https://www.google.com
   github: https://www.github.com
   online: true
+  opensource: true
 
-- name: AI Assistant
-  description: Decent description of the app
+- name: Sajeon
+  description: Korean-English dictionary for iOS
   image: projects/placeholder.png
   url: https://www.google.com
   github: https://www.github.com
   online: true
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Yelp
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: false
+  opensource: true
