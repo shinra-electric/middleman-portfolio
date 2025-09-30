@@ -9,23 +9,23 @@
 - name: Dokodemo Fit
   description: AI tool that creates workout routines and meal plans depending on goals and equipment available
   image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+  url: https://dokodemo-fit-66811301c708.herokuapp.com
+  github: https://github.com/shinra-electric/DokodemoFit
   online: true
   opensource: true
 
 - name: Seven Seas
   description: Private social network app specifically for students of the Apple Developer Academy in Napoli
   image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
+  url: https://www.developeracademy.unina.it/en/
+  github: https://github.com/shinra-electric/Seven-Seas-Intro
+  online: false
   opensource: true
 
 - name: Sajeon
   description: Korean-English dictionary for iOS
   image: projects/placeholder.png
   url: https://www.google.com
-  github: https://www.github.com
-  online: true
+  github: https://github.com/shinra-electric/Sajeon
+  online: false
   opensource: true
