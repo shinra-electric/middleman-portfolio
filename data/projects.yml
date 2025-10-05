@@ -8,7 +8,7 @@
 
 - name: Dokodemo Fit
   description: AI tool that creates workout routines and meal plans depending on goals and equipment available
-  image: projects/placeholder.png
+  image: projects/dokodemo.png
   url: https://dokodemo-fit-66811301c708.herokuapp.com
   github: https://github.com/shinra-electric/DokodemoFit
   online: true
