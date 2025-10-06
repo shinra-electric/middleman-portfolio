@@ -1,5 +1,5 @@
 - name: Market Sensei
-  description: DeFi trading platform featuring digital wallet integration and an AI learning tool
+  description: DeFi trading platform featuring digital wallet integration and an AI learning tool.<br><br>Developed with Ruby on Rails. Hosted on Heroku.
   image: projects/market_sensei.png
   url: https://www.marketsensei.app
   github: https://www.github.com
@@ -7,7 +7,7 @@
   opensource: false
 
 - name: Dokodemo Fit
-  description: AI tool that creates workout routines and meal plans depending on goals and equipment available
+  description: AI tool that creates workout routines and meal plans depending on goals and equipment available.<br><br>Developed with Ruby on Rails. Hosted on Heroku.
   image: projects/dokodemo.png
   url: https://dokodemo-fit-66811301c708.herokuapp.com
   github: https://github.com/shinra-electric/DokodemoFit
@@ -15,7 +15,7 @@
   opensource: true
 
 - name: Seven Seas
-  description: Private social network app specifically for students of the Apple Developer Academy in Napoli
+  description: Private social network app specifically for students of the Apple Developer Academy in Napoli.<br><br>Developed for macOS and iPadOS using Swift, SwiftUI and FileMaker.
   image: projects/seven_seas.png
   url: https://www.developeracademy.unina.it/en/
   github: https://github.com/shinra-electric/Seven-Seas-Intro
@@ -23,7 +23,7 @@
   opensource: true
 
 - name: Sajeon
-  description: Korean-English dictionary for iOS
+  description: Korean-English dictionary.</i><br><br>Developed for iOS using Swift and SwiftUI.
   image: projects/sajeon.png
   url: https://www.google.com
   github: https://github.com/shinra-electric/Sajeon
