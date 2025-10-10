@@ -1,6 +1,6 @@
 - name: Market Sensei
   description: DeFi trading platform featuring digital wallet integration and an AI learning tool.<br><br>Developed with Ruby on Rails. Hosted on Heroku.
-  image: projects/market_sensei.png
+  image: projects/market_sensei.jpg
   url: https://www.marketsensei.app
   github: https://www.github.com
   online: true
