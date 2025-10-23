@@ -23,9 +23,17 @@
   opensource: true
 
 - name: Sajeon
-  description: Korean-English dictionary.</i><br><br>Developed for iOS using Swift and SwiftUI.
+  description: Korean-English dictionary.<br><br>Developed for iOS using Swift and SwiftUI.
   image: projects/sajeon.png
-  url: https://www.google.com
+  url: 
   github: https://github.com/shinra-electric/Sajeon
+  online: false
+  opensource: true
+  
+- name: Shell Scripts
+  description: Scripts written in Zsh/Bash.<br><br>A variety of scripts for macOS including conversion tools, compilation and app bundling.
+  image: projects/scripts.jpg
+  url: 
+  github: https://github.com/shinra-electric/Build-scripts
   online: false
   opensource: true
